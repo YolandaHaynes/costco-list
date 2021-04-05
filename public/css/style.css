@@ -1,0 +1,16 @@
+h1{
+    color:rgb(159, 7, 95);
+}
+
+h2{
+    color: rgb(74, 2, 21);
+}
+
+body {
+    text-align: center;
+    background-image: url("../images/shoppingbag.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+

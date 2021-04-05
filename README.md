@@ -1,1 +1,1 @@
-# costco-list
+Created an API that a user can input a Costco store with a specific items that area sells. 
